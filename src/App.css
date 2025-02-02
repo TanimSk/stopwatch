@@ -1,0 +1,19 @@
+.center-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.clock-container {
+    font-size: 45px;
+    font-weight: bold;
+    color: #969696;
+}
+
+.button-container {    
+    align-items: center;
+    margin-top: 10px;
+}
