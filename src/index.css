@@ -33,12 +33,17 @@ body {
 
 h1 {
   font-size: 3em;
-  line-height: .6;
+  margin-bottom: .2rem;
+  text-align: center;
+  background-color: #340000;
 }
 
 h2 {
   font-size: 1em;
-  line-height: .6;
+  margin-bottom: 3rem;
+  margin-top: 0rem;
+  text-align: center;
+  background-color: #221914;
 }
 
 button {

@@ -8,6 +8,7 @@
 }
 
 .clock-container {
+    width: 100%;
     font-size: 45px;
     font-weight: bold;
     color: #969696;
