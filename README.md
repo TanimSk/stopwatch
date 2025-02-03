@@ -1,1 +1,4 @@
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/cea4cdf4-7647-4df7-9ba4-71f9b93c6a0a" />
+Deployed to: https://go-stopwatch.netlify.app/
+
+Screenshot:
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/491aefdc-5d1d-44aa-a730-13764fc61126" />
